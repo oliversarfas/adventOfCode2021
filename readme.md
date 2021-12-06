@@ -4,8 +4,8 @@ My abysmal attempts at the [Advent Of Code 2021 challenges](https://adventofcode
 
 Each day's attempt is in it's own file;
 
-December 1st, `day1.php`
-December 2nd, `day2.php`
+December 1st, `days/1.php`
+December 2nd, `days/2.php`
 
 etc,.
 
