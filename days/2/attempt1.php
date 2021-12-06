@@ -6,7 +6,7 @@ $location = [
     'y' => 0, // depth
 ];
 
-$data = file('./data.txt');
+$data = file(__DIR__.'/data.txt');
 
 foreach ($data as $key => $instruction) {
     $parts = explode(' ', $instruction);

@@ -6,7 +6,7 @@ $location = [
     'aim' => 0, // aim
 ];
 
-$data = file('./data.txt');
+$data = file(__DIR__.'/data.txt');
 
 foreach ($data as $key => $instruction) {
     $parts = explode(' ', $instruction);
