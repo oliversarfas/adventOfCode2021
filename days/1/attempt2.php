@@ -23,3 +23,4 @@ foreach ($scanItems as $key=>$value) {
 }
 
 echo $groupIncreases;
+exit;
